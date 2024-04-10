@@ -1,5 +1,5 @@
 from flow_nodes import Executor
-from utils.util import read_file, read_file_list
+from utils.util import read_file, read_text_file_list
 import os
 import re
 import json
@@ -137,7 +137,7 @@ class Merger(Executor):
             if parameter["type"] == "file_list" and parameter["name"] == "rewritten_data":
                 input_file_path = parameter["file_path"]
 
-        merged_content = read_file_list(input_file_path)
+        merged_content = read_text_file_list(input_file_path)
 
         outputs = self.node["output"]
 
@@ -145,9 +145,23 @@ class Merger(Executor):
             if output_item["type"] == "file":
                 output_file_path = os.path.join(output_dir, output_item["name"])
 
+        separator = ""
+        ignored_content = None
+        if "additional_info" in self.node:
+            separator = self.node["additional_info"]["separator"]
+            if "ignored_content" in self.node["additional_info"]:
+                ignored_content = self.node["additional_info"]["ignored_content"]
+
+        index = 0
         # Write the merged content to the output_path
         with open(output_file_path, 'w', encoding="utf-8") as f:
             for content in merged_content:
-                f.write(content + "\n")
+                if not ignored_content or content != ignored_content:
+                    index += 1
+                    if separator and "${index}" in separator:
+                        new_separator = separator.replace("${index}", str(index))
+                    else:
+                        new_separator = separator
+                    f.write(new_separator + content + "\n")
 
         return

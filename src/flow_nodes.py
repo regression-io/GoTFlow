@@ -55,7 +55,7 @@ class Executor:
                     parameter_value_dict[parameter["name"]] = output_cache[name]
 
         if not prompt_template:
-            print("Error: There is no prompt template.")
+            print("Error: There is no prompts template.")
             exit(0)
 
         prompt = prompt_template

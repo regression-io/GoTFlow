@@ -8,38 +8,6 @@
   ],
   "flow_items": [
     {
-      "id": "outline_generator",
-      "description": "",
-      "type": "executor",
-      "disabled": false,
-      "input_parameters": [
-        {
-          "name": "prompt_template_file_path",
-          "type": "prompt_template",
-          "file_path": "${GF_ROOT}/data/workflows/BookReview/prompts/outline.txt"
-        },
-        {
-        "name": "introduction",
-        "type": "prompt_text",
-        "file_path": "${GF_ROOT}/data/workflows/BookReview/input/introduction.txt"
-        },
-        {
-        "name": "catalog",
-        "type": "prompt_text",
-        "file_path": "${GF_ROOT}/data/workflows/BookReview/input/catalog.txt"
-        }
-      ],
-      "output": [
-        {
-          "type": "file",
-          "name": "outline/bookreview_outline_2.txt"
-        }
-      ],
-      "next_nodes": [
-        "data_splitter"
-      ]
-    },
-    {
       "id": "data_splitter",
       "description": "split the data",
       "type": "splitter",
@@ -48,7 +16,7 @@
         {
           "name": "source_file",
           "type": "file",
-          "file_path": "${GF_ROOT}/data/workflows/BookReview/output/outline/bookreview_outline_2.txt"
+          "file_path": "${GF_ROOT}/data/workflows/BookReview/input/bookreview_outline.txt"
         },
         {
           "name": "max_length",
@@ -59,7 +27,7 @@
       "output": [
         {
           "type": "file_list",
-          "name": "splits/bookreview_outline_2_${i}.txt"
+          "name": "splits/bookreview_outline_${i}.txt"
         }
       ],
       "next_nodes": [
@@ -88,14 +56,9 @@
         "file_path": "${GF_ROOT}/data/workflows/BookReview/input/catalog.txt"
         },
         {
-          "name": "outline",
-          "type": "prompt_text",
-          "file_path": "${GF_ROOT}/data/workflows/BookReview/output/outline/bookreview_outline_2.txt"
-        },
-        {
           "name": "content",
           "type": "splitted_prompt_text",
-          "file_path": "${GF_ROOT}/data/workflows/BookReview/output/splits/bookreview_outline_2_${i}.txt"
+          "file_path": "${GF_ROOT}/data/workflows/BookReview/output/splits/bookreview_outline_${i}.txt"
         },
         {
         "name": "input_parameter_file_path",
@@ -105,7 +68,7 @@
       "output": [
         {
           "type": "file_list",
-          "name": "paragraphs/bookreview_2_${i}.txt"
+          "name": "paragraphs/bookreview_${i}.txt"
         }
       ],
       "next_nodes": [
@@ -121,13 +84,13 @@
         {
           "name": "rewritten_data",
           "type": "file_list",
-          "file_path": "${GF_ROOT}/data/workflows/BookReview/output/paragraphs/bookreview_2_${i}.txt"
+          "file_path": "${GF_ROOT}/data/workflows/BookReview/output/paragraphs/bookreview_${i}.txt"
         }
       ],
       "output": [
         {
           "type": "file",
-          "name": "bookreview_2.txt"
+          "name": "bookreview.txt"
         }
       ],
       "next_nodes": [
@@ -148,13 +111,13 @@
         {
         "name": "content",
         "type": "splitted_prompt_text",
-        "file_path": "${GF_ROOT}/data/workflows/BookReview/output/paragraphs/bookreview_2_${i}.txt"
+        "file_path": "${GF_ROOT}/data/workflows/BookReview/output/paragraphs/bookreview_${i}.txt"
         }
       ],
       "output": [
         {
            "type": "file_list",
-          "name": "rewrite_paragraphs/bookreview_2_rewrite_${i}.txt"
+          "name": "rewrite_paragraphs/bookreview_rewrite_${i}.txt"
         }
       ],
       "next_nodes": [
@@ -170,13 +133,13 @@
         {
           "name": "rewritten_data",
           "type": "file_list",
-          "file_path": "${GF_ROOT}/data/workflows/BookReview/output/rewrite_paragraphs/bookreview_2_rewrite_${i}.txt"
+          "file_path": "${GF_ROOT}/data/workflows/BookReview/output/rewrite_paragraphs/bookreview_rewrite_${i}.txt"
         }
       ],
       "output": [
         {
           "type": "file",
-          "name": "bookreview_2_rewrite.txt"
+          "name": "bookreview_rewrite.txt"
         }
       ],
       "next_nodes": [
@@ -197,13 +160,13 @@
         {
           "name": "content",
           "type": "prompt_text",
-          "file_path": "${GF_ROOT}/data/workflows/BookReview/output/bookreview_2_rewrite.txt"
+          "file_path": "${GF_ROOT}/data/workflows/BookReview/output/bookreview_rewrite.txt"
         }
       ],
       "output": [
         {
           "type": "file",
-          "name": "name_2.txt"
+          "name": "name.txt"
         }
       ],
       "next_nodes": [

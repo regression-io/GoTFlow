@@ -1,6 +1,7 @@
 import os
 import chardet
 import glob
+import json
 
 # Get the absolute path of the current script
 current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -29,7 +30,7 @@ def read_file(file_path):
         return ""
 
 
-def read_file_list(file_path_regex):
+def read_text_file_list(file_path_regex):
     if not file_path_regex or "${i}" not in file_path_regex:
         print(f"Error: the file_path_regex of {file_path_regex} doesn't exist.")
         return []
@@ -51,6 +52,31 @@ def read_file_list(file_path_regex):
             texts.append(f.read())
     return texts
 
+
+def read_json_file_list(file_path_regex):
+    if not file_path_regex or "${i}" not in file_path_regex:
+        print(f"Error: the file_path_regex of {file_path_regex} doesn't exist.")
+        return []
+
+    file_path = file_path_regex.replace(got_root_sign, got_root)
+    input_file_path = file_path.replace("${i}", "*")
+
+    # Get all text files in the input_dir
+    files = glob.glob(input_file_path)
+    # Filter out files that start with excluded_prefix
+    files_to_merge = [file for file in files]
+    # Sort the files by their names
+    files_to_merge.sort()
+
+    dicts = []
+    # Read and merge the contents of the files
+    for file in files_to_merge:
+        with open(file, 'r', encoding="utf-8") as f:
+            json_obj = json.load(f)
+            dict_obj = {key: value for key, value in json_obj.items()}
+            dicts.append(dict_obj)
+
+    return dicts
 
 def get_output_dir(output_dir_path):
     if not output_dir_path:

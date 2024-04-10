@@ -59,10 +59,6 @@
           "name": "content",
           "type": "splitted_prompt_text",
           "file_path": "${GF_ROOT}/data/workflows/TechNews/output/splits/technews_outline_flashstyle_${i}.txt"
-        },
-        {
-        "name": "input_parameter_file_path",
-        "type": "prompt_parameters"
         }
       ],
       "output": [
