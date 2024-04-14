@@ -1,5 +1,5 @@
 from flow_nodes import Executor
-from utils.util import read_file, read_text_file_list
+from utils.util import read_file, read_text_file_list, read_text_files
 import os
 import re
 import json
@@ -137,7 +137,7 @@ class Merger(Executor):
             if parameter["type"] == "file_list" and parameter["name"] == "rewritten_data":
                 input_file_path = parameter["file_path"]
 
-        merged_content = read_text_file_list(input_file_path)
+        merged_file_names, all_contents = read_text_file_list(input_file_path)
 
         outputs = self.node["output"]
 
@@ -152,16 +152,62 @@ class Merger(Executor):
             if "ignored_content" in self.node["additional_info"]:
                 ignored_content = self.node["additional_info"]["ignored_content"]
 
-        index = 0
-        # Write the merged content to the output_path
-        with open(output_file_path, 'w', encoding="utf-8") as f:
-            for content in merged_content:
-                if not ignored_content or content != ignored_content:
-                    index += 1
-                    if separator and "${index}" in separator:
-                        new_separator = separator.replace("${index}", str(index))
-                    else:
-                        new_separator = separator
-                    f.write(new_separator + content + "\n")
+        grouped_by = ""
 
+        if "${i}" in output_file_path and "${j}" in output_file_path:
+            print("Error: It is invalid that both ${i} and ${j} are in the output_file_path. Only one variable index is allowed.")
+            return
+        elif "${i}" in output_file_path:
+            grouped_by = "${i}"
+        elif "${j}" in output_file_path:
+            grouped_by = "${j}"
+
+        index_part_set = set()
+        file_groups_dict = dict()
+        # New code:
+        pattern = re.compile(r'^(.+?)_(\d{4})_(\d{4})\.txt$')
+        for file_name in merged_file_names:
+            match = pattern.match(file_name)
+            if match:
+                file_basename, i, j = match.groups()
+                if grouped_by == "${i}":
+                    index_part_set.add(i)
+                    if i in file_groups_dict.keys():
+                        file_groups_dict[i].append(file_name)
+                    else:
+                        file_groups_dict[i] = [file_name]
+                elif grouped_by == "${j}":
+                    index_part_set.add(j)
+                    if j in file_groups_dict.keys():
+                        file_groups_dict[j].append(file_name)
+                    else:
+                        file_groups_dict[j] = [file_name]
+
+        item_in_group_number = 0
+        if not file_groups_dict:
+            file_groups_dict[""] = all_contents
+            item_in_group_number = len(all_contents)
+        else:
+            for key in file_groups_dict.keys():
+                file_paths = file_groups_dict[key]
+                texts = read_text_files(file_paths)
+                file_groups_dict[key] = texts
+                item_in_group_number = len(texts)
+
+        index = 0
+        for key in file_groups_dict.keys():
+            merged_content = file_groups_dict[key]
+            real_output_file_path = output_file_path.replace(grouped_by, key)
+            # Write the merged content to the output_path
+            with open(real_output_file_path, 'w', encoding="utf-8") as f:
+                for content in merged_content:
+                    if not ignored_content or content != ignored_content:
+                        if index >= item_in_group_number:
+                            index = 0
+                        index += 1
+                        if separator and "${index}" in separator:
+                            new_separator = separator.replace("${index}", str(index))
+                        else:
+                            new_separator = separator
+                        f.write(new_separator + content + "\n")
         return

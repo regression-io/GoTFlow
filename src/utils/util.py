@@ -37,6 +37,7 @@ def read_text_file_list(file_path_regex):
 
     file_path = file_path_regex.replace(got_root_sign, got_root)
     input_file_path = file_path.replace("${i}", "*")
+    input_file_path = input_file_path.replace("${j}", "*")
 
     # Get all text files in the input_dir
     files = glob.glob(input_file_path)
@@ -45,10 +46,20 @@ def read_text_file_list(file_path_regex):
     # Sort the files by their names
     files_to_merge.sort()
 
+    file_names = []
     texts = []
     # Read and merge the contents of the files
     for file in files_to_merge:
+        file_names.append(os.path.abspath(file))
         with open(file, 'r', encoding="utf-8") as f:
+            texts.append(f.read())
+    return file_names, texts
+
+
+def read_text_files(file_paths):
+    texts = []
+    for file_path in file_paths:
+        with open(file_path, 'r', encoding="utf-8") as f:
             texts.append(f.read())
     return texts
 

@@ -30,7 +30,7 @@ class RepeatExecutor(Executor):
                 prompt_template += read_file(file_path)
             elif parameter["type"] == "splitted_prompt_text":
                 file_path = parameter["file_path"]
-                splitted_texts = read_text_file_list(file_path)
+                _, splitted_texts = read_text_file_list(file_path)
             elif parameter["type"] == "splitted_prompt_parameters":
                 file_path = parameter["file_path"]
                 splitted_parameters = read_json_file_list(file_path) #splitted_parameters is a list of dictionaries.
@@ -110,7 +110,8 @@ class RepeatExecutor(Executor):
                         output_path = os.path.join(output_dir, output_item["name"])
 
                         if param_dict_index > 0:
-                            output_path = output_path.replace("${i}", str(param_dict_index).zfill(ZFILL_NUM) + "_" + str(text_index).zfill(ZFILL_NUM))
+                            output_path = output_path.replace("${i}", str(text_index).zfill(ZFILL_NUM))
+                            output_path = output_path.replace("${j}", str(param_dict_index).zfill(ZFILL_NUM))
                         else:
                             output_path = output_path.replace("${i}", str(text_index).zfill(ZFILL_NUM))
 

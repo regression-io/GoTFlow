@@ -41,5 +41,5 @@ def docx_to_markdown(docx_path, md_path):
     return
 
 # 调用函数，传入Word文档路径和想要保存的txt文件路径
-docx_to_txt('D:\\source\\github\\GoTFlow\\data\\workflows\\Contracts\\input\\raw_data\\空调合同（样例）-训练用.docx',
-            '/data/workflows/Contracts/input/text_data/contract_4.txt')
+docx_to_txt('..\\..\\data\\workflows\\Contracts\\input\\raw_data\\空调合同（样例）-训练用.docx',
+            '..\\..\\data\\workflows\\Contracts\\input\\text_data\\contract_5.txt')

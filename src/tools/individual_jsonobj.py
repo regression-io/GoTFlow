@@ -1,6 +1,7 @@
 import json
 import os
 
+ZFILL_NUM=2
 
 def read_json_from_file(file_path):
     import json
@@ -20,7 +21,8 @@ def save_json_objects(json_file_path, output_folder):
     # Iterate through the list of JSON objects
     for i, json_obj in enumerate(json_list, start=1):
         # Define the filename as a combination of a prefix and a unique number
-        filename = os.path.join(output_folder, f"action_item_{i}.json")
+        i_str = str(i).zfill(ZFILL_NUM)
+        filename = os.path.join(output_folder, f"action_item_{i_str}.json")
 
         # Write the JSON object to a file
         with open(filename, 'w', encoding='utf-8') as f:
@@ -29,6 +31,6 @@ def save_json_objects(json_file_path, output_folder):
 
 # Assuming the function is called with a valid JSON list and an output folder
 # Note: In this environment, files will be saved to a temporary location
-json_file_path = "D:\\source\\github\\GoTFlow\\data\\workflows\\Contracts\\input\\action_items.json"
-output_folder = "D:\\source\\github\\GoTFlow\\data\\workflows\\Contracts\\input\\parameters"
+json_file_path = "..\\..\\data\\workflows\\Contracts\\input\\action_items.json"
+output_folder = "..\\..\\data\\workflows\\Contracts\\input\\parameters"
 save_json_objects(json_file_path, output_folder)

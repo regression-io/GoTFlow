@@ -97,7 +97,7 @@
       "id": "rewrite_technews",
       "description": "",
       "type": "repeat_executor",
-      "disabled": false,
+      "disabled": true,
       "input_parameters": [
         {
           "name": "prompt_template_file_path",
