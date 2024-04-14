@@ -121,8 +121,11 @@ The GoTFlow engine executes the tasks in the order specified in the "flow_items"
 
 The results of the workflow execution are saved in the directory specified by `output_dir_path`.
 
+# Paper
 
-## License
+The paper "Graph-of-Thought: Utilizing Large Language Models to Solve Complex and Dynamic Business Problems" is available at https://arxiv.org/abs/2401.06801. 
+
+# License
 
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
 
