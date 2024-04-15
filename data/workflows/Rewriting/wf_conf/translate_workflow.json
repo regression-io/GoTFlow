@@ -7,17 +7,17 @@
       "id": "data_splitter",
       "description": "split the data",
       "type": "splitter",
-      "disabled": true,
+      "disabled": false,
       "input_parameters": [
         {
           "name": "source_file",
           "type": "file",
-          "file_path": "${GF_ROOT}/data/workflows/Rewriting/input/raw_data/sora_tech.txt"
+          "file_path": "${GF_ROOT}/data/workflows/Rewriting/input/raw_data/covid-19.txt"
         },
         {
           "name": "max_length",
           "type": "int",
-          "value": 300
+          "value": 1000
         }
       ],
       "output": [
@@ -34,7 +34,7 @@
       "id": "rewrite_splits",
       "description": "rewrite splitted data",
       "type": "repeat_executor",
-      "disabled": true,
+      "disabled": false,
       "input_parameters": [
         {
           "name": "prompt_template_file_path",
@@ -72,7 +72,7 @@
       "output": [
         {
           "type": "file",
-          "name": "translated_sora_tech.txt"
+          "name": "translated_covid-19.txt"
         }
       ],
       "next_nodes": [

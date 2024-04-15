@@ -1,0 +1,1024 @@
+8.	STUDY ASSESSMENTS AND PROCEDURES
+The investigator (or an appropriate delegate at the investigator site) must obtain a signed and dated ICD before performing any study-specific procedures.
+
+The full date of birth will be collected to critically evaluate the immune response and safety profile by age.
+
+Study procedures and their timing are summarized in the SoA. Protocol waivers or exemptions are not allowed.
+
+Safety issues should be discussed with the sponsor immediately upon occurrence or awareness to determine whether the participant should continue or discontinue study intervention.
+
+Adherence to the study design requirements, including those specified in the SoA, is essential and required for study conduct.
+
+All screening evaluations must be completed and reviewed to confirm that potential participants meet all eligibility criteria. The investigator will maintain a screening log to record details of all participants screened and to confirm eligibility or record reasons for screening failure, as applicable.
+
+Every effort should be made to ensure that protocol-required tests and procedures are completed as described. However, it is anticipated that from time to time there may be circumstances outside the control of the investigator that may make it unfeasible to perform the test. In these cases, the investigator must take all steps necessary to ensure the safety and well-being of the participant. When a protocol-required test cannot be performed, the investigator will document the reason for the missed test and any corrective and preventive actions that he or she has taken to ensure that required processes are adhered to as soon as possible. The study team must be informed of these incidents in a timely manner.
+
+
+For samples being collected and shipped, detailed collection, processing, storage, and shipment instructions and contact information will be provided to the investigator site prior to initiation of the study.
+
+The total blood sampling volume for individual participants in this study is approximately up to 515 mL for participants in Phase 1, and approximately up to 110 mL for Phase 2/3 participants. Additionally, 20 mL of blood will be taken at an unplanned convalescent visit at any time a participant develops respiratory symptoms indicating a potential COVID-19 infection. Select participants in Phase 1 will also be asked to provide an additional blood sample of approximately 170 mL at either Visit 5, 6, or 7. These participants would therefore have a total blood sampling volume of 700 mL during the 24-month study period. Other additional blood samples may be taken for safety assessments at times specified by Pfizer, provided the total volume taken during the study does not exceed 550 mL during any period of 60 consecutive days.
+
+8.1.	Efficacy and/or Immunogenicity Assessments
+Efficacy will be assessed throughout a participant’s involvement in the study through surveillance for potential cases of COVID-19. If, at any time, a participant develops acute respiratory illness (see Section 8.13), for the purposes of the study he or she will be considered to potentially have COVID-19 illness.9 In this circumstance, the participant should contact the site, an in-person or telehealth visit should occur, and assessments should be conducted as specified in the SoA. The assessments will include a nasal (midturbinate) swab, which will be tested at a central laboratory using a reverse transcription–polymerase chain reaction (RT-PCR) test (Cepheid; FDA approved under EUA), or other equivalent nucleic acid amplification–based test (ie, NAAT), to detect SARS-CoV-2. In addition, clinical information and results from local standard-of-care tests (as detailed in Section 8.13) will be assessed. A local NAAT result will be considered acceptable if it was obtained using:
+
+•	An FDA-cleared (including Emergency Use Authorization) assay; or
+•	An assay that is not FDA-cleared but was conducted in a laboratory that is currently CLIA-certified; or
+
+•	An assay performed by a laboratory accredited according to the ISO 15189 standard by a national or regional accreditation body.
+
+Two definitions of SARS-CoV-2–related cases, and SARS-CoV-2–related severe cases, will be considered (for both, the onset date of the case will be the date that symptoms were first experienced by the participant):
+
+•	Confirmed COVID-19: presence of at least 1 of the following symptoms and
+SARS-CoV-2 NAAT positive during, or within 4 days before or after, the symptomatic period, either at the central laboratory or at a local testing facility (using an acceptable test):
+
+
+•	Fever;
+•	New or increased cough;
+•	New or increased shortness of breath;
+•	Chills;
+•	New or increased muscle pain;
+•	New loss of taste or smell;
+•	Sore throat;
+•	Diarrhea;
+•	Vomiting.
+The second definition, which may be updated as more is learned about COVID-19, will include the following additional symptoms defined by the CDC (listed at https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html):
+
+•	Fatigue;
+•	Headache;
+•	Nasal congestion or runny nose;
+•	Nausea.
+•	Confirmed severe COVID-19: confirmed COVID-19 and presence of at least 1 of the following:
+
+•	Clinical signs at rest indicative of severe systemic illness (RR ≥30 breaths per minute, HR ≥125 beats per minute, SpO2 ≤93% on room air at sea level, or PaO2/FiO2
+<300 mm Hg);
+
+•	Respiratory failure (defined as needing high-flow oxygen, noninvasive ventilation, mechanical ventilation, or ECMO);
+
+•	Evidence of shock (SBP <90 mm Hg, DBP <60 mm Hg, or requiring vasopressors);
+•	Significant acute renal, hepatic, or neurologic dysfunction*;
+•	Admission to an ICU;
+
+
+•	Death.
+The DMC may recommend modification of the definition of severe disease according to emerging information.
+
+* Three blinded case reviewers (medically qualified Pfizer staff members) will review all potential COVID-19 illness events. If a NAAT-confirmed case in Phase 2/3 may be considered severe, or not, solely on the basis of this criterion, the blinded data will be reviewed by the case reviewers to assess whether the criterion is met; the majority opinion will prevail.
+
+In addition, a serological definition will be used for participants without clinical presentation of COVID-19:
+
+•	Confirmed seroconversion to SARS-CoV-2 without confirmed COVID-19: positive
+N-binding antibody result in a participant with a prior negative N-binding antibody result
+
+Serum samples will be obtained for immunogenicity testing at the visits specified in the SoA. The following assays will be performed:
+
+•	SARS-CoV-2 neutralization assay
+•	S1-binding IgG level assay
+•	RBD-binding IgG level assay
+•	N-binding antibody assay
+Note that all immunogenicity analyses will be based upon samples analyzed at the central laboratory; the rapid test will only be performed at screening by all sites recruiting participants in Phase 1 (see Section 8.11.1.1) to determine eligibility.
+
+Serum obtained from the additional ~170-mL blood sample from select participants in Phase 1 at either Visit 5, 6, or 7 will be used for exploratory COVID-19 research, intended to establish a surrogate endpoint that is reasonably likely to predict clinical benefit.
+
+8.1.1.	Biological Samples
+Blood and nasal swab samples will be used only for scientific research. Each sample will be labeled with a code so that the laboratory personnel testing the samples will not know the participant’s identity. Samples that remain after performing assays outlined in the protocol may be stored by Pfizer. Unless a time limitation is required by local regulations or ethical requirements, the samples will be stored for up to 15 years after the end of the study and then destroyed. If allowed by the ICD, stored samples may be used for additional testing to better understand the immune responses to the vaccine(s) under study in this protocol, to inform the development of other products, and/or for vaccine-related assay work supporting vaccine programs. No testing of the participant’s DNA will be performed.
+
+
+The participant may request that his or her samples, if still identifiable, be destroyed at any time; however, any data already collected from those samples will still be used for this research. The biological samples may be shared with other researchers as long as confidentiality is maintained and no testing of the participant’s DNA is performed.
+
+8.2.	Safety Assessments
+Planned time points for all safety assessments are provided in the SoA. Unscheduled clinical laboratory measurements may be obtained at any time during the study to assess any perceived safety issues.
+
+A clinical assessment, including medical history, will be performed on all participants at his/her first visit to establish a baseline. Significant medical history and observations from any physical examination, if performed, will be documented in the CRF.
+
+AEs and SAEs are collected, recorded, and reported as defined in Section 8.3.
+
+Acute reactions within the first 4 hours after administration of the study intervention (for the first 5 participants vaccinated in each Phase 1 group), and within the first 30 minutes (for the remainder of participants), will be assessed and documented in the AE CRF.
+
+The safety parameters also include reactogenicity e-diary reports of local reactions and systemic events (including fever), and use of antipyretic medication that occur in the 7 days after administration of the study intervention. These prospectively self-collected occurrences of local reactions and systemic events are graded as described in Section 8.2.2.
+
+8.2.1.	Clinical Safety Laboratory Assessments (Phase 1 Participants Only)
+See Appendix 2 for the list of clinical safety laboratory tests to be performed and the SoA for the timing and frequency. All protocol-required laboratory assessments, as defined in Appendix 2, must be conducted in accordance with the laboratory manual and the SoA. Unscheduled clinical laboratory measurements may be obtained at any time during the study to assess any perceived safety issues.
+
+The investigator must review the laboratory report, document this review, and record any clinically relevant changes occurring during the study in the AE section of the CRF. See Appendix 2 for the grading scale for assessment of clinically significant abnormal laboratory findings. Clinically significant abnormal laboratory findings are those which are not associated with the underlying disease, unless judged by the investigator to be more severe than expected for the participant's condition.
+
+All laboratory tests with values considered clinically significantly abnormal during participation in the study or within 28 days after the last dose of study intervention should be repeated until the values return to normal or baseline or are no longer considered clinically significant by the investigator or medical monitor.
+
+
+If such values do not return to normal/baseline within a period of time judged reasonable by the investigator, the etiology should be identified and the sponsor notified.
+
+See Appendix 5 for suggested actions and follow-up assessments in the event of potential drug-induced liver injury (DILI).
+
+8.2.2.	Electronic Diary
+Participants will be required to complete a reactogenicity e-diary through an application (see Section 8.14) installed on a provisioned device or on the participant’s own personal device. All participants in Phase 1, and a subset of at least the first 6000 randomized in Phase 2/3, will be asked to monitor and record local reactions, systemic events, and antipyretic medication usage for 7 days following administration of the study intervention. All participants in Phase 3 who are HIV positive will be included in this subset. The reactogenicity e-diary allows recording of these assessments only within a fixed time window, thus providing the accurate representation of the participant’s experience at that time. Data on local reactions and systemic events reported in the reactogenicity e-diary will be transferred electronically to a third-party vendor, where they will be available for review by investigators and the Pfizer clinicians at all times via an internet-based portal.
+
+At intervals agreed to by the vendor and Pfizer, these data will be transferred electronically into Pfizer's database for analysis and reporting. These data do not need to be reported by the investigator in the CRF as AEs.
+
+Investigators (or designee) will be required to review the reactogenicity e-diary data online at frequent intervals as part of the ongoing safety review.
+
+The investigator or designee must obtain stop dates from the participant for any ongoing local reactions, systemic events, or use of antipyretic medication on the last day that the reactogenicity e-diary was completed. The stop dates should be documented in the source documents and the information entered in the CRF.
+
+8.2.2.1.	Grading Scales
+The grading scales used in this study to assess local reactions and systemic events as described below are derived from the FDA Center for Biologics Evaluation and Research (CBER) guidelines on toxicity grading scales for healthy adult volunteers enrolled in preventive vaccine clinical trials.8
+8.2.2.2.	Local Reactions
+During the reactogenicity e-diary reporting period, participants will be asked to assess redness, swelling, and pain at the injection site and to record the symptoms in the reactogenicity e-diary. If a local reaction persists beyond the end of the reactogenicity e-diary period following vaccination, the participant will be requested to report that information. The investigator will enter this additional information in the CRF.
+
+
+Redness and swelling will be measured and recorded in measuring device units
+(range: 1 to 21) and then categorized during analysis as absent, mild, moderate, or severe based on the grading scale in Table 1. Measuring device units can be converted to centimeters according to the following formula: 1 measuring device unit = 0.5 cm. Pain at the injection site will be assessed by the participant as absent, mild, moderate, or severe according the grading scale in Table 1.
+
+If a Grade 3 local reaction is reported in the reactogenicity e-diary, a telephone contact should occur to ascertain further details and determine whether a site visit is clinically indicated. Only an investigator or medically qualified person is able to classify a participant’s local reaction as Grade 4. If a participant experiences a confirmed Grade 4 local reaction, the investigator must immediately notify the sponsor and, if it is determined to be related to the administration of the study intervention, further vaccinations will be discontinued in that participant.
+
+Table 1.	Local Reaction Grading Scale
+
+	Mild (Grade 1)	Moderate (Grade 2)	Severe (Grade 3)	Potentially Life
+Threatening (Grade 4)
+Pain at the injection site	Does not interfere with activity	Interferes with activity	Prevents daily activity	Emergency room visit or hospitalization for severe pain
+Redness	>2.0 cm to 5.0 cm
+(5 to 10 measuring device units)	>5.0 cm to 10.0 cm
+(11 to 20 measuring device units)	>10 cm
+(≥21 measuring device units)	Necrosis or exfoliative dermatitis
+Swelling	>2.0 cm to 5.0 cm
+(5 to 10 measuring device units)	>5.0 cm to 10.0 cm
+(11 to 20 measuring device units)	>10 cm
+(≥21 measuring device units)	Necrosis
+
+8.2.2.3.	Systemic Events
+During the reactogenicity e-diary reporting period, participants will be asked to assess vomiting, diarrhea, headache, fatigue, chills, new or worsened muscle pain, and new or worsened joint pain and to record the symptoms in the reactogenicity e-diary. The symptoms will be assessed by the participant as absent, mild, moderate, or severe according to the grading scale in Table 2.
+
+If a Grade 3 systemic event is reported in the reactogenicity e-diary, a telephone contact should occur to ascertain further details and determine whether a site visit is clinically indicated. Only an investigator or medically qualified person is able to classify a participant’s systemic event as Grade 4. If a participant experiences a confirmed Grade 4 systemic event, the investigator must immediately notify the sponsor and, if it is determined to be related to the administration of the study intervention, further vaccinations will be discontinued in that participant.
+
+
+Table 2.	Systemic Event Grading Scale
+
+	Mild (Grade 1)	Moderate (Grade 2)	Severe (Grade 3)	Potentially Life Threatening (Grade 4)
+Vomiting	1-2 times in
+24 hours	>2 times in
+24 hours	Requires IV hydration	Emergency room visit or hospitalization for
+hypotensive shock
+Diarrhea	2 to 3 loose stools
+in 24 hours	4 to 5 loose stools
+in 24 hours	6 or more loose stools in 24 hours	Emergency room visit or hospitalization for severe diarrhea
+Headache	Does not interfere with activity	Some interference with activity	Prevents daily routine activity	Emergency room visit or hospitalization for severe headache
+Fatigue/ tiredness	Does not interfere with activity	Some interference with activity	Prevents daily routine activity	Emergency room visit or
+hospitalization for severe fatigue
+Chills	Does not interfere with activity	Some interference with activity	Prevents daily routine activity	Emergency room visit or hospitalization for severe chills
+New or worsened muscle pain	Does not interfere with activity	Some interference with activity	Prevents daily routine activity	Emergency room visit or hospitalization for severe new or worsened muscle pain
+New or
+worsened joint pain	Does not interfere with activity	Some interference with activity	Prevents daily routine activity	Emergency room visit or
+hospitalization for severe new or worsened joint pain
+Abbreviation: IV = intravenous.
+
+
+8.2.2.4.	Fever
+In order to record information on fever, a thermometer will be given to participants with instructions on how to measure oral temperature at home. Temperature will be collected in the reactogenicity e-diary in the evening daily during the reactogenicity e-diary reporting period. It will also be collected at any time during the reactogenicity e-diary data collection periods when fever is suspected. Fever is defined as an oral temperature of ≥38.0°C (100.4°F). The highest temperature for each day will be recorded in the reactogenicity
+e-diary. Temperature will be measured and recorded to 1 decimal place and then categorized during analysis according to the scale shown in Table 3.
+
+If a fever of ≥39.0°C (102.1°F) is reported in the reactogenicity e-diary, a telephone contact should occur to ascertain further details and determine whether a site visit is clinically indicated. Only an investigator or medically qualified person is able to confirm a participant’s fever as >40.0°C (>104.0°F). If a participant experiences a confirmed fever
+>40.0°C (>104.0°F), the investigator must immediately notify the sponsor and, if it is determined to be related to the administration of the study intervention, further vaccinations will be discontinued in that participant.
+
+
+
+Table 3.	Scale for Fever
+≥38.0-38.4°C (100.4-101.1°F)
+>38.4-38.9°C (101.2-102.0°F)
+>38.9-40.0°C (102.1-104.0°F)
+>40.0°C (>104.0°F)
+
+
+8.2.2.5.	Antipyretic Medication
+The use of antipyretic medication to treat symptoms associated with study intervention administration will be recorded in the reactogenicity e-diary daily during the reporting period (Day 1 to Day 7).
+
+8.2.3.	Phase 1 Stopping Rules
+The following stopping rules are in place for all Phase 1 participants, based on review of AE data and e-diary reactogenicity data, until the start of Phase 2/3 or 30 days after the last dose of study intervention in Phase 1, whichever is later. These data will be monitored on an ongoing basis by the investigator (or medically qualified designee) and sponsor in order to promptly identify and flag any event that potentially contributes to a stopping rule.
+
+The sponsor study team will be unblinded during Phase 1, so will be able to assess whether or not a stopping rule has been met on the basis of a participant’s individual study intervention allocation.
+
+In the event that sponsor personnel confirm that a stopping rule is met, the following actions will commence:
+
+•	The IRC will review all appropriate data.
+•	The stopping rule will PAUSE randomization and study intervention administration for the impacted vaccine candidate all dose levels and age groups.
+
+•	The DMC will review all appropriate data.
+•	For all participants vaccinated, all other routine study conduct activities, including ongoing data entry, reporting of AEs, participant reactogenicity e-diary completion, blood sample collection, and participant follow-up, will continue during the pause.
+
+A stopping rule is met if any of the following rules occur after administration of investigational BNT162 vaccine; data from placebo recipients will not contribute to the stopping rules. Reactogenicity e-diary data confirmed by the investigator as being entered by the participant in error will not contribute toward a stopping rule.
+
+The BNT162b RNA platform will be evaluated for contribution to stopping rules overall; vaccine candidate dose levels within the platform and age groups will contribute to stopping
+
+
+rules together. However, it is possible that the recommendations may include halting or continuing randomization with any of the BNT162 vaccine candidates.
+
+Stopping Rule Criteria for Each BNT162 Vaccine Candidate:
+
+1.	If any participant vaccinated with the BNT162 candidate (at any dose level) develops an SAE that is assessed by the investigator as possibly related, or for which there is no alternative, plausible, attributable cause.
+
+2.	If any participant vaccinated with the BNT162 candidate (at any dose level) develops a Grade 4 local reaction or systemic event after vaccination (see Section 8.2.2) that is assessed as possibly related by the investigator, or for which there is no alternative, plausible, attributable cause.
+
+3.	If any participant vaccinated with the BNT162 candidate (at any dose level) develops a fever >40.0°C (>104.0°F) for at least 1 daily measurement after vaccination
+(see Section 8.2.2.4) that is assessed as possibly related by the investigator, or for which there is no alternative, plausible, attributable cause.
+
+4.	If any 2 participants vaccinated with the BNT162 candidate (at any dose level) report the same or similar severe (Grade 3) AE (including laboratory abnormalities) after vaccination, assessed as possibly related by the investigator, or for which there is no alternative, plausible, attributable cause.
+
+5.	If any participant dies or requires ICU admission due to SARS-CoV-2 infection; if this stopping rule is met, all available clinical and preclinical safety and immunogenicity data should be reviewed to evaluate for enhanced COVID-19.
+
+8.2.4.	Surveillance of Events That Could Represent Enhanced COVID-19 and Phase 2/3 Stopping Rule
+Participants in all phases of the study will be surveilled for potential COVID-19 illness from Visit 1 onwards (see Section 8.13).
+
+As this is a sponsor open-label study during Phase 1, the sponsor will conduct unblinded reviews of the data during the course of the study, including for the purpose of safety assessment. All NAAT-confirmed cases in Phase 1 will be reviewed contemporaneously by the IRC and the DMC (see Section 9.6).
+
+In Phase 2/3, the unblinded team supporting the DMC, including an unblinded medical monitor, will review cases of severe COVID-19 as they are received and will review AEs at least weekly for additional potential cases of severe COVID-19. At any point, the unblinded team may discuss with the DMC chair whether the DMC should review cases for an adverse imbalance of cases of COVID-19 and/or severe COVID-19 between the vaccine and placebo groups.
+
+
+The purpose of these reviews will be to identify whether any features of each case appear unusual, in particular greater in severity, compared to available information at the time of review. Indicators of severity may include accelerated deterioration, need for hospitalization, need for ventilation, or death. Observed rates of these indicators will be compared with what could be expected in a similar population to the study participants based upon available information at the time of review.
+
+Stopping and alert rules will be applied as follows. The stopping rule will be triggered when the 1-sided probability of observing the same or a more extreme case split is 5% or less when the true incidence of severe disease is the same for vaccine and placebo participants, and alert criteria are triggered when this probability is less than 11%. In addition, when the total number of severe cases is low (15 or less), the unblinded team supporting the DMC will implement the alert rule when a reverse case split of 2:1 or worse is observed. For example, at 3 cases 2:1, at 4 cases 3:1, etc. Below 15 cases, this rule is more rigorous than requiring the probability of an observed adverse split or worse be <11%. Further details can be found in Section 10.7.
+
+8.2.5.	Randomization and Vaccination After a Stopping Rule Is Met
+Once the IRC (if in Phase 1) and DMC (all phases) have reviewed the safety data and provided guidance, a notification will be sent from the sponsor to the sites with guidance on how to proceed.
+
+8.2.6.	Pregnancy Testing
+Pregnancy tests may be urine or serum tests, but must have a sensitivity of at least
+25 mIU/mL. Pregnancy tests will be performed in WOCBP at the times listed in the SoA, immediately before the administration of each vaccine dose. A negative pregnancy test result will be required prior to the participant’s receiving the study intervention. Pregnancy tests may also be repeated if requested by IRBs/ECs or if required by local regulations. In the case of a positive confirmed pregnancy, the participant will be withdrawn from administration of study intervention but may remain in the study.
+
+
+8.3.	Adverse Events and Serious Adverse Events
+The definitions of an AE and an SAE can be found in Appendix 3.
+
+AEs will be reported by the participant (or, when appropriate, by a caregiver, surrogate, or the participant's legally authorized representative).
+
+The investigator and any qualified designees are responsible for detecting, documenting, and recording events that meet the definition of an AE or SAE and remain responsible to pursue and obtain adequate information both to determine the outcome and to assess whether the event meets the criteria for classification as an SAE or caused the participant to discontinue the study intervention (see Section 7.1).
+
+Each participant will be questioned about the occurrence of AEs in a nonleading manner.
+
+In addition, the investigator may be requested by Pfizer Safety to obtain specific follow-up information in an expedited fashion.
+
+8.3.1.	Time Period and Frequency for Collecting AE and SAE Information
+The time period for actively eliciting and collecting AEs and SAEs (“active collection period”) for each participant begins from the time the participant provides informed consent, which is obtained before the participant’s participation in the study (ie, before undergoing any study-related procedure and/or receiving study intervention), through and including Visit 7 for Phase 1 participants, and Visit 3 for Phase 2/3 participants. In addition, any AEs occurring up to 48 hours after each subsequent blood draw must be recorded on the CRF.
+
+SAEs will be collected from the time the participant provides informed consent to approximately 6 months after the last dose of study intervention (Visit 8 for Phase 1 participants, and Visit 4 for Phase 2/3 participants).
+
+Follow-up by the investigator continues throughout and after the active collection period and until the AE or SAE or its sequelae resolve or stabilize at a level acceptable to the investigator and Pfizer concurs with that assessment.
+
+For participants who are screen failures, the active collection period ends when screen failure status is determined.
+
+If the participant withdraws from the study and also withdraws consent for the collection of future information, the active collection period ends when consent is withdrawn.
+
+If a participant definitively discontinues or temporarily discontinues study intervention because of an AE or SAE, the AE or SAE must be recorded on the CRF and the SAE reported using the Vaccines SAE Report Form.
+
+Investigators are not obligated to actively seek AEs or SAEs after the participant has concluded study participation. However, if the investigator learns of any SAE, including a
+
+
+death, at any time after a participant has completed the study, and he/she considers the event to be reasonably related to the study intervention, the investigator must promptly report the SAE to Pfizer using the Vaccines SAE Report Form.
+
+8.3.1.1.	Reporting SAEs to Pfizer Safety
+All SAEs occurring in a participant during the active collection period as described in Section 8.3.1 are reported to Pfizer Safety on the Vaccines SAE Report Form immediately upon awareness and under no circumstance should this exceed 24 hours, as indicated in Appendix 3.  The investigator will submit any updated SAE data to the sponsor within
+24 hours of it being available.
+
+8.3.1.2.	Recording Nonserious AEs and SAEs on the CRF
+All nonserious AEs and SAEs occurring in a participant during the active collection period, which begins after obtaining informed consent as described in Section 8.3.1, will be recorded on the AE section of the CRF.
+
+The investigator is to record on the CRF all directly observed and all spontaneously reported AEs and SAEs reported by the participant.
+
+8.3.2.	Method of Detecting AEs and SAEs
+The method of recording, evaluating, and assessing causality of AEs and SAEs and the procedures for completing and transmitting SAE reports are provided in Appendix 3.
+
+Care will be taken not to introduce bias when detecting AEs and/or SAEs. Open-ended and nonleading verbal questioning of the participant is the preferred method to inquire about AE occurrences.
+
+8.3.3.	Follow-up of AEs and SAEs
+After the initial AE/SAE report, the investigator is required to proactively follow each participant at subsequent visits/contacts. For each event, the investigator must pursue and obtain adequate information until resolution, stabilization, the event is otherwise explained, or the participant is lost to follow-up (as defined in Section 7.3).
+
+In general, follow-up information will include a description of the event in sufficient detail to allow for a complete medical assessment of the case and independent determination of possible causality. Any information relevant to the event, such as concomitant medications and illnesses, must be provided. In the case of a participant death, a summary of available autopsy findings must be submitted as soon as possible to Pfizer Safety.
+
+Further information on follow-up procedures is given in Appendix 3.
+
+
+8.3.4.	Regulatory Reporting Requirements for SAEs
+Prompt notification by the investigator to the sponsor of an SAE is essential so that legal obligations and ethical responsibilities towards the safety of participants and the safety of a study intervention under clinical investigation are met.
+
+The sponsor has a legal responsibility to notify both the local regulatory authority and other regulatory agencies about the safety of a study intervention under clinical investigation. The sponsor will comply with country-specific regulatory requirements relating to safety reporting to the regulatory authority, IRBs/ECs, and investigators.
+
+Investigator safety reports must be prepared for SUSARs according to local regulatory requirements and sponsor policy and forwarded to investigators as necessary.
+
+An investigator who receives SUSARs or other specific safety information (eg, summary or listing of SAEs) from the sponsor will review and then file it along with the SRSD(s) for the study and will notify the IRB/EC, if appropriate according to local requirements.
+
+8.3.5.	Exposure During Pregnancy or Breastfeeding, and Occupational Exposure
+Exposure to the study intervention under study during pregnancy or breastfeeding and occupational exposure are reportable to Pfizer Safety within 24 hours of investigator awareness.
+
+8.3.5.1.	Exposure During Pregnancy
+An EDP occurs if:
+
+•	A female participant is found to be pregnant while receiving or after discontinuing study intervention.
+
+•	A male participant who is receiving or has discontinued study intervention exposes a female partner prior to or around the time of conception.
+
+•	A female is found to be pregnant while being exposed or having been exposed to study intervention due to environmental exposure. Below are examples of environmental exposure during pregnancy:
+
+•	A female family member or healthcare provider reports that she is pregnant after having been exposed to the study intervention by inhalation or skin contact.
+
+•	A male family member or healthcare provider who has been exposed to the study intervention by inhalation or skin contact then exposes his female partner prior to or around the time of conception.
+
+The investigator must report EDP to Pfizer Safety within 24 hours of the investigator’s awareness, irrespective of whether an SAE has occurred. The initial information submitted
+
+
+should include the anticipated date of delivery (see below for information related to termination of pregnancy).
+
+•	If EDP occurs in a participant or a participant’s partner, the investigator must report this information to Pfizer Safety on the Vaccines SAE Report Form and an EDP Supplemental Form, regardless of whether an SAE has occurred. Details of the pregnancy will be collected after the start of study intervention and until 6 months after the last dose of study intervention.
+
+•	If EDP occurs in the setting of environmental exposure, the investigator must report information to Pfizer Safety using the Vaccines SAE Report Form and EDP Supplemental Form. Since the exposure information does not pertain to the participant enrolled in the study, the information is not recorded on a CRF; however, a copy of the completed Vaccines SAE Report Form is maintained in the investigator site file.
+
+Follow-up is conducted to obtain general information on the pregnancy and its outcome for all EDP reports with an unknown outcome. The investigator will follow the pregnancy until completion (or until pregnancy termination) and notify Pfizer Safety of the outcome as a follow-up to the initial EDP Supplemental Form. In the case of a live birth, the structural integrity of the neonate can be assessed at the time of birth. In the event of a termination, the reason(s) for termination should be specified and, if clinically possible, the structural integrity of the terminated fetus should be assessed by gross visual inspection (unless preprocedure test findings are conclusive for a congenital anomaly and the findings are reported).
+
+Abnormal pregnancy outcomes are considered SAEs. If the outcome of the pregnancy meets the criteria for an SAE (ie, ectopic pregnancy, spontaneous abortion, intrauterine fetal demise, neonatal death, or congenital anomaly), the investigator should follow the procedures for reporting SAEs. Additional information about pregnancy outcomes that are reported to Pfizer Safety as SAEs follows:
+
+•	Spontaneous abortion including miscarriage and missed abortion;
+•	Neonatal deaths that occur within 1 month of birth should be reported, without regard to causality, as SAEs. In addition, infant deaths after 1 month should be reported as SAEs when the investigator assesses the infant death as related or possibly related to exposure to the study intervention.
+
+Additional information regarding the EDP may be requested by the sponsor. Further follow-up of birth outcomes will be handled on a case-by-case basis (eg, follow-up on preterm infants to identify developmental delays). In the case of paternal exposure, the investigator will provide the participant with the Pregnant Partner Release of Information
+Form to deliver to his partner. The investigator must document in the source documents that the participant was given the Pregnant Partner Release of Information Form to provide to his partner.
+
+
+8.3.5.2.	Exposure During Breastfeeding
+An exposure during breastfeeding occurs if:
+
+•	A female participant is found to be breastfeeding while receiving or after discontinuing study intervention.
+
+•	A female is found to be breastfeeding while being exposed or having been exposed to study intervention (ie, environmental exposure). An example of environmental exposure during breastfeeding is a female family member or healthcare provider who reports that she is breastfeeding after having been exposed to the study intervention by inhalation or skin contact.
+
+The investigator must report exposure during breastfeeding to Pfizer Safety within 24 hours of the investigator’s awareness, irrespective of whether an SAE has occurred. The information must be reported using the Vaccines SAE Report Form. When exposure during breastfeeding occurs in the setting of environmental exposure, the exposure information does not pertain to the participant enrolled in the study, so the information is not recorded on a CRF. However, a copy of the completed Vaccines SAE Report Form is maintained in the investigator site file.
+
+An exposure during breastfeeding report is not created when a Pfizer drug specifically approved for use in breastfeeding women (eg, vitamins) is administered in accord with authorized use. However, if the infant experiences an SAE associated with such a drug, the SAE is reported together with the exposure during breastfeeding.
+
+8.3.5.3.	Occupational Exposure
+An occupational exposure occurs when a person receives unplanned direct contact with the study intervention, which may or may not lead to the occurrence of an AE. Such persons may include healthcare providers, family members, and other roles that are involved in the trial participant’s care.
+
+The investigator must report occupational exposure to Pfizer Safety within 24 hours of the investigator’s awareness, regardless of whether there is an associated SAE. The information must be reported using the Vaccines SAE Report Form. Since the information does not pertain to a participant enrolled in the study, the information is not recorded on a CRF; however, a copy of the completed Vaccines SAE Report Form is maintained in the investigator site file.
+
+8.3.6.	Cardiovascular and Death Events
+Not applicable.
+
+
+8.3.7.	Disease-Related Events and/or Disease-Related Outcomes Not Qualifying as AEs or SAEs
+Potential COVID-19 illnesses and their sequelae that are consistent with the clinical endpoint definition should not be recorded as AEs. These data will be captured as efficacy assessment data only on the relevant pages of the CRF, as these are expected endpoints.
+
+Potential COVID-19 illnesses and their sequelae will not be reported according to the standard process for expedited reporting of SAEs, even though the event may meet the definition of an SAE. These events will be recorded on the COVID-19 illness pages in the participant’s CRF within 1 day.
+
+Potential COVID-19 illness events and their sequelae will be reviewed by a group of internal blinded case reviewers. Any SAE that is determined by the internal case reviewers NOT to meet endpoint criteria is reported back to the investigator site of incidence. The investigator must report the SAE to Pfizer Safety within 24 hours of being made aware that the SAE did not meet endpoint criteria. The investigator’s SAE awareness date is the date on which the investigator site of incidence receives the SAE back from the internal case reviewers.
+
+8.3.8.	Adverse Events of Special Interest
+Not applicable.
+
+8.3.8.1.	Lack of Efficacy
+Lack of efficacy is reportable to Pfizer Safety only if associated with an SAE.
+
+8.3.9.	Medical Device Deficiencies
+Not applicable.
+
+8.3.10.	Medication Errors
+Medication errors may result from the administration or consumption of the study intervention by the wrong participant, or at the wrong time, or at the wrong dosage strength.
+
+Exposures to the study intervention under study may occur in clinical trial settings, such as medication errors.
+
+Safety Event	Recorded on the CRF	Reported on the Vaccines SAE Report Form to Pfizer Safety Within 24 Hours of Awareness
+Medication errors	All (regardless of whether associated with an AE)	Only if associated with an SAE
+
+
+Medication errors include:
+
+•	Medication errors involving participant exposure to the study intervention;
+•	Potential medication errors or uses outside of what is foreseen in the protocol that do or do not involve the study participant;
+
+•	The administration of expired study intervention;
+•	The administration of an incorrect study intervention;
+•	The administration of an incorrect dosage;
+•	The administration of study intervention that has undergone temperature excursion from the specified storage range, unless it is determined by the sponsor that the study intervention under question is acceptable for use.
+
+Such medication errors occurring to a study participant are to be captured on the medication error page of the CRF, which is a specific version of the AE page.
+
+In the event of a medication dosing error, the sponsor should be notified within 24 hours.
+
+Whether or not the medication error is accompanied by an AE, as determined by the investigator, the medication error is recorded on the medication error page of the CRF and, if applicable, any associated AE(s), serious and nonserious, are recorded on the AE page of the CRF.
+
+Medication errors should be reported to Pfizer Safety within 24 hours on a Vaccines SAE Report Form only when associated with an SAE.
+
+8.4.	Treatment of Overdose
+For this study, any dose of study intervention greater than 1 dose of study intervention within a 24-hour time period will be considered an overdose.
+
+Pfizer does not recommend specific treatment for an overdose. In the event of an overdose, the investigator should:
+1.	Contact the medical monitor within 24 hours.
+
+2.	Closely monitor the participant for any AEs/SAEs.
+
+3.	Document the quantity of the excess dose as well as the duration of the overdose in the CRF.
+
+4.	Overdose is reportable to Safety only when associated with an SAE.
+
+
+Decisions regarding dose interruptions or modifications will be made by the investigator in consultation with the medical monitor based on the clinical evaluation of the participant.
+
+8.5.	Pharmacokinetics
+Pharmacokinetic parameters are not evaluated in this study.
+
+8.6.	Pharmacodynamics
+Pharmacodynamic parameters are not evaluated in this study.
+
+8.7.	Genetics
+Genetics (specified analyses) are not evaluated in this study.
+
+8.8.	Biomarkers
+Biomarkers are not evaluated in this study.
+
+8.9.	Immunogenicity Assessments
+Immunogenicity assessments are described in Section 8.1.
+
+8.10.	Health Economics
+Health economics/medical resource utilization and health economics parameters are not evaluated in this study.
+
+8.11.	Study Procedures
+8.11.1.	Phase 1
+8.11.1.1.	Screening: (0 to 28 Days Before Visit 1)
+Before enrollment and before any study-related procedures are performed, voluntary, written study-specific informed consent will be obtained from the participant. Each signature on the ICD must be personally dated by the signatory. The investigator or his or her designee will also sign the ICD. A copy of the signed and dated ICD must be given to the participant. The source data must reflect that the informed consent was obtained before participation in the study.
+
+It is anticipated that the procedures below will be conducted in a stepwise manner; however, the visit can occur over more than 1 day.
+
+•	Assign a single participant number using the IRT system.
+•	Obtain the participant’s demography (including date of birth, sex, race, and ethnicity). The full date of birth will be collected to critically evaluate the immune response and safety profile by age.
+
+•	Obtain any medical history of clinical significance.
+
+
+•	Obtain details of any medications currently taken.
+•	Perform physical examination including vital signs (weight, height, body temperature, pulse rate, and seated blood pressure), evaluating any clinically significant abnormalities within the following body systems: general appearance; skin; head, eyes, ears, nose, and throat; heart; lungs; abdomen; musculoskeletal; extremities; neurological; and lymph nodes.
+
+•	Collect a blood sample (approximately 20 mL) for potential future serological assessment and to perform a rapid test for prior COVID-19 infection.
+
+•	Collect a blood sample (approximately 10 mL) for hematology and chemistry laboratory tests as described in Section 10.2.
+
+•	Collect a blood sample (approximately 10 mL) for HIV, HBsAg, HBc Ab, and HCV Ab tests.
+
+•	Perform urine pregnancy test on WOCBP as described in Section 8.2.6.
+•	Discuss contraceptive use as described in Section 10.4.
+•	Record nonstudy vaccinations as described in Section 6.5.
+•	Ensure and document that all of the inclusion criteria and none of the exclusion criteria are met.
+
+•	Record AEs as described in Section 8.3. AEs that occur prior to dosing should be noted on the Medical History CRF.
+
+•	Ask the participant to contact the site staff or investigator immediately if any significant illness or hospitalization occurs.
+
+•	Ask the participant to contact the site staff or investigator immediately if he or she experiences any respiratory symptoms as detailed in Section 8.13.
+
+•	Schedule an appointment for the participant to return for the next study visit.
+•	Complete the source documents.
+•	Complete the CRF.
+8.11.1.2.	Visit 1 – Vaccination 1: (Day 1)
+It is anticipated that the procedures below will be conducted in a stepwise manner; ensure that procedures listed prior to administration of the vaccine are conducted prior to vaccination.
+
+
+•	Record AEs as described in Section 8.3.
+•	Measure vital signs (body temperature, pulse rate, and seated blood pressure), and, if indicated by any change in the participant’s health since the previous visit, perform a physical examination, evaluating any clinically significant abnormalities within the following body systems: general appearance; skin; head, eyes, ears, nose, and throat; heart; lungs; abdomen; musculoskeletal; extremities; neurological; and lymph nodes.
+
+•	Perform urine pregnancy test on WOCBP as described in Section 8.2.6.
+•	Discuss contraceptive use as described in Section 10.4.
+•	Record nonstudy vaccinations as described in Section 6.5.
+•	Review screening laboratory results (hematology and chemistry, and HIV, HBsAg, HBc Ab, and HCV Ab tests).
+
+•	Obtain 2 nasal (midturbinate) swabs (collected by site staff). One will be tested (if possible at the site, otherwise at the central laboratory) within 24 hours and vaccination will proceed only if it is NAAT-negative for SARS-CoV-2 genomes. The second will be sent to the central laboratory for potential later testing.
+
+•	Ensure and document that all of the inclusion criteria and none of the exclusion criteria are met.
+
+•	Ensure that the participant meets none of the temporary delay criteria as described in Section 5.5.
+
+•	Obtain the participant’s randomization number and study intervention allocation using the IRT system. Only an unblinded site staff member may obtain this information.
+
+•	Collect a blood sample (approximately 50 mL) for immunogenicity testing.
+•	Unblinded site staff member(s) will dispense/administer 1 dose of study intervention into the deltoid muscle of the preferably nondominant arm. Please refer to the IP manual for further instruction on this process.
+
+•	The first 5 participants vaccinated in each group must be observed by blinded site staff for any acute reactions for at least 4 hours after vaccination. For participants enrolled thereafter, blinded site staff must observe the participant for at least 30 minutes after study intervention administration for any acute reactions. Record any acute reactions (including time of onset) in the participant’s source documents and on the AE page of the CRF, and on an SAE form as applicable.
+
+•	Issue a measuring device to measure local reactions at the injection site and a thermometer for recording daily temperatures and provide instructions on their use.
+
+
+•	Explain the e-diary technologies available for this study (see Section 8.14), and assist the participant in downloading the study application onto the participant’s own device or issue a provisioned device if required. Provide instructions on e-diary completion and ask the participant to complete the reactogenicity e-diary from Day 1 to Day 7, with
+Day 1 being the day of vaccination and, if utilized, the COVID-19 illness e-diary (to be completed if the participant is diagnosed with COVID-19 or has possible new or increased symptoms, and when he/she receives a reminder, at least weekly).
+
+•	Ask the participant to contact the site staff or investigator immediately if he or she experiences any of the following from Day 1 to Day 7 after vaccination (where Day 1 is the day of vaccination) to determine if an unscheduled reactogenicity visit is required:
+
+•	Fever ≥39.0°C (≥102.1°F).
+•	Redness or swelling at the injection site measuring greater than 10 cm (>20 measuring device units).
+
+•	Severe pain at the injection site.
+•	Any severe systemic event.
+•	Ask the participant to contact the site staff or investigator if a medically attended event (eg, doctor’s visit, emergency room visit) or hospitalization occurs.
+
+•	Ask the participant to contact the site staff or investigator (this could be via the COVID-19 illness e-diary) immediately if he or she experiences any respiratory symptoms as detailed in Section 8.13.
+
+•	Schedule an appointment for the participant to return for the next study visit.
+•	Remind the participant to bring the e-diary to the next visit.
+•	Complete the source documents.
+•	The investigator or an authorized designee completes the CRFs and an unblinded dispenser/administrator updates the study intervention accountability records.
+
+•	The investigator or appropriately qualified designee reviews the reactogenicity e-diary data online following vaccination to evaluate participant compliance and as part of the ongoing safety review. Daily review is optimal during the active diary period.
+
+
+8.11.1.3.	Visit 2 – Next-Day Follow-up Visit (Vaccination 1): (1 to 3 Days After Visit 1)
+•	Record AEs as described in Section 8.3.
+•	Measure vital signs (body temperature, pulse rate, and seated blood pressure), and, if indicated by any change in the participant’s health since the previous visit, perform a physical examination, evaluating any clinically significant abnormalities within the following body systems: general appearance; skin; head, eyes, ears, nose, and throat; heart; lungs; abdomen; musculoskeletal; extremities; neurological; and lymph nodes.
+
+•	Collect a blood sample (approximately 10 mL) for hematology and chemistry laboratory tests as described in Section 10.2.
+
+•	Record nonstudy vaccinations as described in Section 6.5.
+•	Record details of any of the prohibited medications specified in Section 6.5.1 received by the participant if required for his or her clinical care.
+
+•	Discuss contraceptive use as described in Section 10.4.
+•	Ask the participant to contact the site staff or investigator immediately if he or she experiences any of the following from Day 1 to Day 7 after vaccination (where Day 1 is the day of vaccination) to determine if an unscheduled reactogenicity visit is required:
+
+•	Fever ≥39.0°C (≥102.1°F).
+•	Redness or swelling at the injection site measuring greater than 10 cm (>20 measuring device units).
+
+•	Severe pain at the injection site.
+•	Any severe systemic event.
+•	Ask the participant to contact the site staff or investigator if a medically attended event (eg, doctor’s visit, emergency room visit) or hospitalization occurs.
+
+•	Ask the participant to contact the site staff or investigator (this could be via the COVID-19 illness e-diary) immediately if he or she experiences any respiratory symptoms as detailed in Section 8.13.
+
+•	Schedule an appointment for the participant to return for the next study visit.
+•	Remind the participant to bring the e-diary to the next visit.
+•	Complete the source documents.
+
+
+•	The investigator or an authorized designee completes the CRFs.
+•	The investigator or appropriately qualified designee reviews the reactogenicity e-diary data online following vaccination to evaluate participant compliance and as part of the ongoing safety review. Daily review is optimal during the active diary period.
+
+8.11.1.4.	Visit 3 – 1-Week Follow-up Visit (Vaccination 1): (6 to 8 Days After Visit 1)
+•	Record AEs as described in Section 8.3.
+•	Review hematology and chemistry laboratory results and record any AEs in accordance with Appendix 2.
+
+•	Measure vital signs (body temperature, pulse rate, and seated blood pressure), and, if indicated by any change in the participant’s health since the previous visit, perform a physical examination, evaluating any clinically significant abnormalities within the following body systems: general appearance; skin; head, eyes, ears, nose, and throat; heart; lungs; abdomen; musculoskeletal; extremities; neurological; and lymph nodes.
+
+•	Collect a blood sample (approximately 10 mL) for hematology and chemistry laboratory tests as described in Section 10.2.
+
+•	Record nonstudy vaccinations as described in Section 6.5.
+•	Record details of any of the prohibited medications specified in Section 6.5.1 received by the participant if required for his or her clinical care.
+
+•	Discuss contraceptive use as described in Section 10.4.
+•	Collect a blood sample (approximately 50 mL) for immunogenicity testing.
+•	Ask the participant to contact the site staff or investigator immediately if he or she experiences any of the following from Day 1 to Day 7 after vaccination (where Day 1 is the day of vaccination) to determine if an unscheduled reactogenicity visit is required:
+
+•	Fever ≥39.0°C (≥102.1°F).
+•	Redness or swelling at the injection site measuring greater than 10 cm (>20 measuring device units).
+
+•	Severe pain at the injection site.
+•	Any severe systemic event.
+•	Ask the participant to contact the site staff or investigator if a medically attended event (eg, doctor’s visit, emergency room visit) or hospitalization occurs.
+
+
+•	Ask the participant to contact the site staff or investigator (this could be via the COVID-19 illness e-diary) immediately if he or she experiences any respiratory symptoms as detailed in Section 8.13.
+
+•	Schedule an appointment for the participant to return for the next study visit.
+•	Remind the participant to bring the e-diary to the next visit.
+•	Complete the source documents.
+•	The investigator or an authorized designee completes the CRFs.
+•	The investigator or appropriately qualified designee reviews the reactogenicity e-diary data online following vaccination to evaluate participant compliance and as part of the ongoing safety review. Daily review is optimal during the active diary period.
+
+8.11.1.5.	Visit 4 – Vaccination 2: (19 to 23 Days After Visit 1)
+It is anticipated that the procedures below will be conducted in a stepwise manner; ensure that procedures listed prior to administration of the vaccine are conducted prior to vaccination.
+
+•	Record AEs as described in Section 8.3.
+•	Review the participant’s reactogenicity e-diary data. Collect stop dates of any reactogenicity e-diary events ongoing on the last day that the reactogenicity e-diary was completed and record stop dates in the CRF if required.
+
+•	Review hematology and chemistry laboratory results and record any AEs in accordance with Appendix 2.
+
+•	Measure vital signs (body temperature, pulse rate, and seated blood pressure), and, if indicated by any change in the participant’s health since the previous visit, perform a physical examination, evaluating any clinically significant abnormalities within the following body systems: general appearance; skin; head, eyes, ears, nose, and throat; heart; lungs; abdomen; musculoskeletal; extremities; neurological; and lymph nodes.
+
+•	Perform urine pregnancy test on WOCBP as described in Section 8.2.6.
+•	Discuss contraceptive use as described in Section 10.4.
+•	Record nonstudy vaccinations as described in Section 6.5.
+•	Record details of any of the prohibited medications specified in Section 6.5.1 received by the participant if required for his or her clinical care.
+
+
+•	Obtain 2 nasal (midturbinate) swabs (collected by site staff). One will be tested (if possible at the site, otherwise at the central laboratory) within 24 hours and vaccination will only proceed if it is NAAT-negative for SARS-CoV-2 genomes. The second will be sent to the central laboratory for potential later testing.
+
+•	Ensure and document that all of the inclusion criteria and none of the exclusion criteria are met. If not, the participant should not receive further study intervention but will remain in the study to be evaluated for safety, immunogenicity, and efficacy
+(see Section 7.1).
+
+•	Ensure that the participant meets none of the temporary delay criteria as described in Section 5.5.
+
+•	Collect a blood sample (approximately 10 mL) for hematology and chemistry laboratory tests as described in Section 10.2.
+
+•	Collect a blood sample (approximately 50 mL) for immunogenicity testing.
+•	Unblinded site staff member(s) will dispense/administer 1 dose of study intervention into the deltoid muscle of the preferably nondominant arm. Please refer to the IP manual for further instruction on this process.
+
+•	Blinded site staff must observe the participant for at least 30 minutes after study intervention administration for any acute reactions. Record any acute reactions (including time of onset) in the participant’s source documents and on the AE page of the CRF, and on an SAE form as applicable.
+
+•	Ensure the participant has a measuring device to measure local reactions at the injection site and a thermometer for recording daily temperatures.
+
+•	Ensure the participant remains comfortable with his or her chosen e-diary platform, confirm instructions on e-diary completion, and ask the participant to complete the reactogenicity e-diary from Day 1 to Day 7, with Day 1 being the day of vaccination.
+
+•	Ask the participant to contact the site staff or investigator immediately if he or she experiences any of the following from Day 1 to Day 7 after vaccination (where Day 1 is the day of vaccination) to determine if an unscheduled reactogenicity visit is required:
+
+•	Fever ≥39.0°C (≥102.1°F).
+•	Redness or swelling at the injection site measuring greater than 10 cm (>20 measuring device units).
+
+•	Severe pain at the injection site.
+•	Any severe systemic event.
+
+
+•	Ask the participant to contact the site staff or investigator if a medically attended event (eg, doctor’s visit, emergency room visit) or hospitalization occurs.
+
+•	Ask the participant to contact the site staff or investigator (this could be via the COVID-19 illness e-diary) immediately if he or she experiences any respiratory symptoms as detailed in Section 8.13.
+
+•	Schedule an appointment for the participant to return for the next study visit.
+•	Remind the participant to bring the e-diary to the next visit.
+•	Complete the source documents.
+•	The investigator or an authorized designee completes the CRFs and an unblinded dispenser/administrator updates the study intervention accountability records.
+
+•	The investigator or appropriately qualified designee reviews the reactogenicity e-diary data online following vaccination to evaluate participant compliance and as part of the ongoing safety review. Daily review is optimal during the active diary period.
+
+8.11.1.6.	Visit 5 – 1-Week Follow-up Visit (Vaccination 2): (6 to 8 Days After Visit 4)
+•	Record AEs as described in Section 8.3.
+•	Review hematology and chemistry laboratory results and record any AEs in accordance with Appendix 2.
+
+•	Measure vital signs (body temperature, pulse rate, and seated blood pressure), and, if indicated by any change in the participant’s health since the previous visit, perform a physical examination, evaluating any clinically significant abnormalities within the following body systems: general appearance; skin; head, eyes, ears, nose, and throat; heart; lungs; abdomen; musculoskeletal; extremities; neurological; and lymph nodes.
+
+•	Collect a blood sample (approximately 10 mL) for hematology and chemistry laboratory tests as described in Section 10.2.
+
+•	Record nonstudy vaccinations as described in Section 6.5.
+•	Record details of any of the prohibited medications specified in Section 6.5.1 received by the participant if required for his or her clinical care.
+
+•	Discuss contraceptive use as described in Section 10.4.
+•	Collect a blood sample (approximately 50 mL) for immunogenicity testing.
+
+
+•	If the participant (select participants only, details will be provided by the sponsor) consents, collect an additional 170 mL blood sample for exploratory COVID-19 research.
+
+•	Ask the participant to contact the site staff or investigator immediately if he or she experiences any of the following from Day 1 to Day 7 after vaccination (where Day 1 is the day of vaccination) to determine if an unscheduled reactogenicity visit is required:
+
+•	Fever ≥39.0°C (≥102.1°F).
+•	Redness or swelling at the injection site measuring greater than 10 cm (>20 measuring device units).
+
+•	Severe pain at the injection site.
+•	Any severe systemic event.
+•	Ask the participant to contact the site staff or investigator if a medically attended event (eg, doctor’s visit, emergency room visit) or hospitalization occurs.
+
+•	Ask the participant to contact the site staff or investigator immediately if he or she experiences any respiratory symptoms as detailed in Section 8.13.
+
+•	Schedule an appointment for the participant to return for the next study visit.
+•	Remind the participant to bring the e-diary to the next visit.
+•	Complete the source documents.
+•	The investigator or an authorized designee completes the CRFs.
+•	The investigator or appropriately qualified designee reviews the reactogenicity e-diary data online following vaccination to evaluate participant compliance and as part of the ongoing safety review. Daily review is optimal during the active diary period.
+
+8.11.1.7.	Visit 6 – 2-Week Follow-up Visit (Vaccination 2): (12 to 16 Days After Visit 4)
+•	Record AEs as described in Section 8.3.
+•	Review the participant’s reactogenicity e-diary data. Collect stop dates of any reactogenicity e-diary events ongoing on the last day that the reactogenicity e-diary was completed and record stop dates in the CRF if required.
+
+•	Review hematology and chemistry laboratory results and record any AEs in accordance with Appendix 2.
+
+
+•	Measure vital signs (body temperature, pulse rate, and seated blood pressure), and, if indicated by any change in the participant’s health since the previous visit, perform a physical examination, evaluating any clinically significant abnormalities within the following body systems: general appearance; skin; head, eyes, ears, nose, and throat; heart; lungs; abdomen; musculoskeletal; extremities; neurological; and lymph nodes.
+
+•	Record nonstudy vaccinations as described in Section 6.5.
+•	Record details of any of the prohibited medications specified in Section 6.5.1 received by the participant if required for his or her clinical care.
+
+•	Discuss contraceptive use as described in Section 10.4.
+•	Collect a blood sample (approximately 50 mL) for immunogenicity testing.
+•	If not collected at Visit 5, and the participant (select participants only, details will be provided by the sponsor) consents, collect an additional 170-mL blood sample for exploratory COVID-19 research.
+
+•	Ask the participant to contact the site staff or investigator if a medically attended event (eg, doctor’s visit, emergency room visit) or hospitalization occurs.
+
+•	Ask the participant to contact the site staff or investigator immediately (this could be via the COVID-19 illness e-diary) if he or she experiences any respiratory symptoms as detailed in Section 8.13.
+
+•	Schedule an appointment for the participant to return for the next study visit.
+•	Complete the source documents.
+•	The investigator or an authorized designee completes the CRFs.
+8.11.1.8.	Visit 7 – 1-Month Follow-up Visit: (28 to 35 Days After Visit 4)
+•	Record AEs as described in Section 8.3.
+•	Record nonstudy vaccinations as described in Section 6.5.
+•	Record details of any of the prohibited medications specified in Section 6.5.1 received by the participant if required for his or her clinical care.
+
+•	Discuss contraceptive use as described in Section 10.4.
+•	Collect a blood sample (approximately 50 mL) for immunogenicity testing.
+
+
+•	If not collected at Visit 5 or 6, and the participant (select participants only, details will be provided by the sponsor) consents, collect an additional 170-mL blood sample for exploratory COVID-19 research.
+
+•	Ask the participant to contact the site staff or investigator if a medically attended event (eg, doctor’s visit, emergency room visit) or hospitalization occurs.
+
+•	Ask the participant to contact the site staff or investigator (this could be via the COVID-19 illness e-diary) immediately if he or she experiences any respiratory symptoms as detailed in Section 8.13.
+
+•	Schedule an appointment for the participant to return for the next study visit.
+•	Complete the source documents.
+•	The investigator or an authorized designee completes the CRFs.
+8.11.1.9.	Visit 8 – 6-Month Follow-up Visit: (175 to 189 Days After Visit 4)
+•	Record SAEs as described in Section 8.3.
+•	Record nonstudy vaccinations as described in Section 6.5.
+•	Record details of any of the prohibited medications specified in Section 6.5.1 received by the participant if required for his or her clinical care.
+
+•	Collect a blood sample (approximately 20 mL) for immunogenicity testing.
+•	Ask the participant to contact the site staff or investigator if a medically attended event (eg, doctor’s visit, emergency room visit) or hospitalization occurs.
+
+•	Ask the participant to contact the site staff or investigator (this could be via the COVID-19 illness e-diary) immediately if he or she experiences any respiratory symptoms as detailed in Section 8.13.
+
+•	Schedule an appointment for the participant to return for the next study visit.
+•	Complete the source documents.
+•	The investigator or an authorized designee completes the CRFs.
+•	Record any AEs that occur within the 48 hours after the blood draw as described in Section 8.3.
+
+
+8.11.1.10.	Visit 9 – 12-Month Follow-up Visit: (350 to 378 Days After Visit 4)
+•	Collect a blood sample (approximately 20 mL) for immunogenicity testing.
+•	Record details of any of the prohibited medications specified in Section 6.5.1 received by the participant if required for his or her clinical care.
+
+•	Ask the participant to contact the site staff or investigator (this could be via the COVID-19 illness e-diary) immediately if he or she experiences any respiratory symptoms as detailed in Section 8.13.
+
+•	Schedule an appointment for the participant to return for the next study visit.
+•	Complete the source documents.
+•	The investigator or an authorized designee completes the CRFs.
+•	Record any AEs that occur within the 48 hours after the blood draw as described in Section 8.3.
+
+8.11.1.11.	Visit 10 – 24-Month Follow-up Visit: (714 to 742 Days After Visit 4)
+•	Collect a blood sample (approximately 20 mL) for immunogenicity testing.
+•	Record details of any of the prohibited medications specified in Section 6.5.1 received by the participant if required for his or her clinical care.
+
+•	Collect the participant’s e-diary or assist the participant to remove the study application from his or her own personal device.
+
+•	Complete the source documents.
+•	The investigator or an authorized designee completes the CRFs.
+•	Record any AEs that occur within the 48 hours after the blood draw as described in Section 8.3.
+
+
+8.11.2.	Phase 2/3
+8.11.2.1.	Visit 1 – Vaccination 1: (Day 1)
+Before enrollment and before any study-related procedures are performed, voluntary, written, study-specific informed consent will be obtained from the participant. Each signature on the ICD must be personally dated by the signatory. The investigator or his or her designee will also sign the ICD. A copy of the signed and dated ICD must be given to the participant. The source data must reflect that the informed consent was obtained before participation in the study.
+
+It is anticipated that the procedures below will be conducted in a stepwise manner. The visit may be conducted across 2 consecutive days; if so, all steps from assessing the inclusion and exclusion criteria onwards must be conducted on the same day.
+
+•	Assign a single participant number using the IRT system.
+•	Obtain the participant’s demography (including date of birth, sex, race, and ethnicity). The full date of birth will be collected to critically evaluate the immune response and safety profile by age.
+
+•	Obtain any medical history of clinical significance. For participants who are HIV positive, record HIV viral load and CD4 count results from the most recent test performed in the previous 6 months.
+
+•	Perform a clinical assessment. If the clinical assessment indicates that a physical examination is necessary to comprehensively evaluate the participant, perform a physical examination and record any findings in the source documents and, if clinically significant, record on the medical history CRF.
+
+•	Measure the participant’s height and weight.
+•	Measure the participant’s body temperature.
+•	Perform urine pregnancy test on WOCBP as described in Section 8.2.6.
+•	Discuss contraceptive use as described in Section 10.4.
+•	Record nonstudy vaccinations as described in Section 6.5.
+•	Ensure and document that all of the inclusion criteria and none of the exclusion criteria are met.
+
+•	Ensure that the participant meets none of the temporary delay criteria as described in Section 5.5.
+
+•	Record AEs as described in Section 8.3.
+
+
+•	Collect a blood sample (approximately 20 mL) for immunogenicity testing.
+•	Obtain a nasal (midturbinate) swab (collected by site staff).
+•	Obtain the participant’s randomization number and study intervention allocation number using the IRT system. Only an unblinded site staff member may obtain this information.
+
+•	Unblinded site staff member(s) will dispense/administer 1 dose of study intervention into the deltoid muscle of the preferably nondominant arm. Please refer to the IP manual for further instruction on this process.
+
+•	Blinded site staff must observe the participant for at least 30 minutes after study intervention administration for any acute reactions. Record any acute reactions (including time of onset) in the participant’s source documents and on the AE page of the CRF, and on an SAE form as applicable.
+
+•	For participants in the reactogenicity subset, issue a measuring device to measure local reactions at the injection site and a thermometer for recording daily temperatures and provide instructions on their use.
+
+•	For participants not in the reactogenicity subset, issue a thermometer to monitor for fever (for COVID-19 surveillance) and provide instructions on its use.
+
+•	Explain the e-diary technologies available for this study (see Section 8.14), and assist the participant in downloading the study application onto the participant’s own device or issue a provisioned device if required.
+
+•	For participants in the reactogenicity subset, provide instructions on reactogenicity
+e-diary completion and ask the participant to complete the reactogenicity e-diary from Day 1 to Day 7, with Day 1 being the day of vaccination.
+
+•	For all participants, provide instructions on COVID-19 illness e-diary completion and ask the participant to complete the COVID-19 illness e-diary if he/she is diagnosed with COVID-19 or has possible new or increased symptoms, and when he/she receives a reminder, at least weekly. See Section 8.14 for further details.
+
+•	If the participant is part of the reactogenicity subset, ask the participant to contact the site staff or investigator immediately if he or she experiences any of the following from Day 1 to Day 7 after vaccination (where Day 1 is the day of vaccination) to determine if an unscheduled reactogenicity visit is required:
+
+•	Fever ≥39.0°C (≥102.1°F).
+•	Redness or swelling at the injection site measuring greater than 10 cm (>20 measuring device units).
+
+
+•	Severe pain at the injection site.
+•	Any severe systemic event.
+•	Ask the participant to contact the site staff or investigator if a medically attended event (eg, doctor’s visit, emergency room visit) or hospitalization occurs.
+
+•	Ask the participant to contact the site staff or investigator (this could be via the COVID-19 illness e-diary) immediately if he or she experiences any respiratory symptoms as detailed in Section 8.13.
+
+•	Schedule an appointment for the participant to return for the next study visit.
+•	Remind the participant to bring the e-diary to the next visit.
+•	Complete the source documents.
+•	The investigator or an authorized designee completes the CRFs and an unblinded dispenser/administrator updates the study intervention accountability records.
+
+If the participant is part of the reactogenicity subset, the investigator or appropriately qualified designee reviews the reactogenicity e-diary data online following vaccination to evaluate participant compliance and as part of the ongoing safety review. Daily review is optimal during the active diary period.
+
+8.11.2.2.	Visit 2 – Vaccination 2: (19 to 23 Days After Visit 1)
+It is anticipated that the procedures below will be conducted in a stepwise manner; ensure that procedures listed prior to administration of the vaccine are conducted prior to vaccination.
+
+•	Record AEs as described in Section 8.3.
+•	If the participant is part of the reactogenicity subset, review the participant’s reactogenicity e-diary data. Collect stop dates of any reactogenicity e-diary events ongoing on the last day that the reactogenicity e-diary was completed and record stop dates in the CRF if required.
+
+•	Perform urine pregnancy test on WOCBP as described in Section 8.2.6.
+•	Discuss contraceptive use as described in Section 10.4.
+•	Record nonstudy vaccinations as described in Section 6.5.
+•	Record details of any of the prohibited medications specified in Section 6.5.1 received by the participant if required for his or her clinical care.
+
+
+•	Ensure and document that all of the inclusion criteria and none of the exclusion criteria are met. If not, the participant may not receive further study intervention but will remain in the study to be evaluated for safety, immunogenicity, and efficacy
+(see Section 7.1).
+
+•	Measure the participant’s body temperature.
+•	Ensure that the participant meets none of the temporary delay criteria as described in Section 5.5.
+
+•	Obtain a nasal (midturbinate) swab (collected by site staff).
+•	Unblinded site staff member(s) will dispense/administer 1 dose of study intervention into the deltoid muscle of the preferably nondominant arm. Please refer to the IP manual for further instruction on this process.
+
+•	Blinded site staff must observe the participant for at least 30 minutes after study intervention administration for any acute reactions. Record any acute reactions (including time of onset) in the participant’s source documents and on the AE page of the CRF, and on an SAE form as applicable.
+
+•	Ensure the participant has a measuring device to measure local reactions at the injection site and a thermometer for recording daily temperatures.
+
+•	Ensure the participant remains comfortable with his or her chosen e-diary platform, confirm instructions on e-diary completion, and, if the participant is part of the reactogenicity subset, ask the participant to complete the reactogenicity e-diary from Day 1 to Day 7, with Day 1 being the day of vaccination.
+
+•	If the participant is part of the reactogenicity subset, ask the participant to contact the site staff or investigator immediately if he or she experiences any of the following from
+Day 1 to Day 7 after vaccination (where Day 1 is the day of vaccination) to determine if an unscheduled reactogenicity visit is required:
+
+•	Fever ≥39.0°C (≥102.1°F).
+•	Redness or swelling at the injection site measuring greater than 10 cm (>20 measuring device units).
+
+•	Severe pain at the injection site.
+•	Any severe systemic event.
+•	Ask the participant to contact the site staff or investigator if a medically attended event (eg, doctor’s visit, emergency room visit) or hospitalization occurs.
+
+
+•	Ask the participant to contact the site staff or investigator (this could be via the COVID-19 illness e-diary) immediately if he or she experiences any respiratory symptoms as detailed in Section 8.13.
+
+•	Schedule an appointment for the participant to return for the next study visit.
+•	Remind the participant to bring the e-diary to the next visit.
+•	Complete the source documents.
+•	The investigator or an authorized designee completes the CRFs and an unblinded dispenser/administrator updates the study intervention accountability records.
+
+If the participant is part of the reactogenicity subset, the investigator or appropriately qualified designee reviews the reactogenicity e-diary data online following vaccination to evaluate participant compliance and as part of the ongoing safety review. Daily review is optimal during the active diary period.
+
+8.11.2.3.	Visit 3 – 1-Month Follow-up Visit (After Vaccination 2): (28 to 35 Days After Visit 2)
+•	Record AEs as described in Section 8.3.
+•	Review the participant’s reactogenicity e-diary data. If the participant is part of the reactogenicity subset, review the participant’s reactogenicity e-diary data. Collect stop dates of any reactogenicity e-diary events ongoing on the last day that the reactogenicity e-diary was completed and record stop dates in the CRF if required.
+
+•	Record nonstudy vaccinations as described in Section 6.5.
+•	Record details of any of the prohibited medications specified in Section 6.5.1 received by the participant if required for his or her clinical care.
+
+•	For participants who are HIV positive, record HIV viral load and CD4 count results from the most recent test performed since Visit 1 (if any).
+
+•	Discuss contraceptive use as described in Section 10.4.
+•	Collect a blood sample (approximately 20 mL) for immunogenicity testing.
+•	Ask the participant to contact the site staff or investigator if a medically attended event (eg, doctor’s visit, emergency room visit) or hospitalization occurs.
+
+•	Ask the participant to contact the site staff or investigator (this could be via the COVID-19 illness e-diary) immediately if he or she experiences any respiratory symptoms as detailed in Section 8.13.
+
+
+•	Schedule an appointment for the participant to return for the next study visit.
+•	Complete the source documents.
+•	The investigator or an authorized designee completes the CRFs.
+8.11.2.4.	Visit 4 – 6-Month Follow-up Visit: (175 to 189 Days After Visit 2)
+•	Record SAEs as described in Section 8.3.
+•	Record nonstudy vaccinations as described in Section 6.5.
+•	For participants who are HIV positive, record HIV viral load and CD4 count results from the most recent test performed since Visit 3 (if any).
+
+•	Collect a blood sample (approximately 20 mL) for immunogenicity testing.
+•	Record details of any of the prohibited medications specified in Section 6.5.1 received by the participant if required for his or her clinical care.
+
+•	Ask the participant to contact the site staff or investigator (this could be via the COVID-19 illness e-diary) immediately if he or she experiences any respiratory symptoms as detailed in Section 8.3.
+
+•	Schedule an appointment for the participant to return for the next study visit.
+•	Complete the source documents.
+•	The investigator or an authorized designee completes the CRFs.
+•	Record any AEs that occur within the 48 hours after the blood draw as described in Section 8.3.
+
+8.11.2.5.	Visit 5 – 12-Month Follow-up Visit: (350 to 378 Days After Visit 2)
+•	Collect a blood sample (approximately 20 mL) for immunogenicity testing.
+•	Record details of any of the prohibited medications specified in Section 6.5.1 received by the participant if required for his or her clinical care.
+
+•	For participants who are HIV positive, record HIV viral load and CD4 count results from the most recent test performed since Visit 4 (if any).
+
+•	Ask the participant to contact the site staff or investigator (this could be via the COVID-19 illness e-diary) immediately if he or she experiences any respiratory symptoms as detailed in Section 8.13.
+
+
+•	Schedule an appointment for the participant to return for the next study visit.
+•	Complete the source documents.
+•	The investigator or an authorized designee completes the CRFs.
+•	Record any AEs that occur within the 48 hours after the blood draw as described in Section 8.3.
+
+8.11.2.6.	Visit 6 – 24-Month Follow-up Visit: (714 to 742 Days After Visit 2)
+•	Collect a blood sample (approximately 20 mL) for immunogenicity testing.
+•	Record details of any of the prohibited medications specified in Section 6.5.1 received by the participant if required for his or her clinical care.
+
+•	For participants who are HIV positive, record HIV viral load and CD4 count results from the most recent test performed since Visit 5 (if any).
+
+•	Collect the participant’s e-diary or assist the participant to remove the study application from his or her own personal device.
+
+•	Complete the source documents.
+•	The investigator or an authorized designee completes the CRFs.
+•	Record any AEs that occur within the 48 hours after the blood draw as described in Section 8.3.
+
+8.12.	Unscheduled Visit for a Grade 3 or Suspected Grade 4 Reaction
+If a Grade 3 local reaction (Section 8.2.2.2), systemic event (Section 8.2.2.3), or fever (Section 8.2.2.4) is reported in the reactogenicity e-diary, a telephone contact should occur to ascertain further details and determine whether a site visit is clinically indicated. If suspected Grade 4 local reaction (Section 8.2.2.2), systemic event (Section 8.2.2.3), or fever
+(Section 8.2.2.4) is reported in the reactogenicity e-diary, a telephone contact or site visit should occur to confirm whether the event meets the criteria for Grade 4.
+
+A site visit must be scheduled as soon as possible to assess the participant unless any of the following is true:
+
+•	The participant is unable to attend the unscheduled visit.
+•	The local reaction/systemic event is no longer present at the time of the telephone contact.
+
+
+•	The participant recorded an incorrect value in the reactogenicity e-diary (confirmation of a reactogenicity e-diary data entry error).
+
+•	The PI or authorized designee determined it was not needed.
+This telephone contact will be recorded in the participant’s source documentation and the CRF.
+
+If the participant is unable to attend the unscheduled visit, or the PI or authorized designee determined it was not needed, any ongoing local reactions/systemic events must be assessed at the next study visit.
+
+During the unscheduled visit, the reactions should be assessed by the investigator or a medically qualified member of the study staff such as a study physician or a study nurse, as applicable to the investigator’s local practice, who will:
+
+•	Measure body temperature (°F/°C).
+•	Measure minimum and maximum diameters of redness (if present).
+•	Measure minimum and maximum diameters of swelling (if present).
+•	Assess injection site pain (if present) in accordance with the grades provided in Section 8.2.2.2.
+
+•	Assess systemic events (if present) in accordance with the grades provided in Section 8.2.2.3.
+
+•	Assess for other findings associated with the reaction and record on the AE page of the CRF, if appropriate.
+
+The investigator or an authorized designee will complete the unscheduled visit assessment page of the CRF.
+
+
+8.13.	COVID-19 Surveillance (All Participants)
+If a participant experiences any of the following (irrespective of perceived etiology or clinical significance), he or she is instructed to contact the site immediately and, if confirmed, participate in an in-person or telehealth visit as soon as possible, optimally within 3 days of symptom onset (and at the latest 4 days after symptom resolution). During the
+7 days following each vaccination, potential COVID-19 symptoms that overlap with solicited systemic events (ie, fever, chills, new or increased muscle pain, diarrhea, vomiting) should not trigger a potential COVID-19 illness visit unless, in the investigator’s opinion, the clinical picture is more indicative of a possible COVID-19 illness than vaccine reactogenicity. Participants may utilize a COVID-19 illness e-diary through an application (see Section 8.14) installed on a provisioned device or on the participant’s own personal device to prompt him/her to report any symptoms. Note that this does not substitute for a participant’s routine medical care. Therefore, participants should be encouraged to seek care, if appropriate, from their usual provider.
+
+•	A diagnosis of COVID-19;
+•	Fever;
+•	New or increased cough;
+•	New or increased shortness of breath;
+•	Chills;
+•	New or increased muscle pain;
+•	New loss of taste/smell;
+•	Sore throat;
+•	Diarrhea;
+•	Vomiting.
+8.13.1.	Potential COVID-19 Illness Visit: (Optimally Within 3 Days After Potential COVID-19 Illness Onset)
+This visit may be conducted as an in-person or telehealth visit; a telehealth visit involves the sharing of healthcare information and services via telecommunication technologies (eg, audio, video, video-conferencing software) remotely, thus allowing the participant and investigator to communicate on aspects of clinical care.
+
+As a participant’s COVID-19 illness may evolve over time, several contacts may be required to obtain the following information:
+
+
+•	Record AEs, as appropriate as described in Section 8.3. Note: Potential COVID-19 illnesses that are consistent with the clinical endpoint definition should not be recorded as AEs. These data will be captured as efficacy assessment data only on the relevant pages of the CRF, as these are expected endpoints.
+
+•	Record details of any of the prohibited medications specified in Section 6.5.1 received by the participant if required for his or her clinical care.
+
+•	If the visit is conducted in person, obtain a nasal (midturbinate) swab (collected by site staff). Alternatively, if conducted by telehealth, instruct the participant to self-collect a nasal (midturbinate) swab and ship for assessment at the central laboratory. The result from this swab will be provided to the site once it is available, but this will not be in real time, and cannot be relied upon to direct clinical care. Therefore, the participant should be encouraged to seek care, if appropriate, from his or her usual provider.
+
+•	Collect COVID-19–related standard-of-care clinical and laboratory information. This includes, but is not limited to:
+
+•	Symptoms and signs, including
+•	Clinical signs at rest indicative of severe systemic illness (RR ≥30 breaths per minute, HR ≥125 beats per minute, SpO2 ≤93% on room air at sea level, or PaO2/FiO2 <300 mm Hg)
+
+•	Evidence of shock (SBP <90 mm Hg, DBP <60 mm Hg, or requiring vasopressors)
+
+•	Significant acute renal, hepatic, or neurologic dysfunction
+•	Respiratory failure (defined as needing high-flow oxygen, noninvasive ventilation, mechanical ventilation, or ECMO)
+
+•	Clinical diagnosis
+•	Local laboratory COVID-19 test result
+•	Full blood count
+•	Blood chemistry, specifically creatinine, urea, liver function tests, and C-reactive protein
+
+•	Imaging results (eg, CT or MRI scan) to document neurologic dysfunction
+•	Number and type of any healthcare contact; duration of hospitalization and ICU stay
+•	Death
+
+
+•	Schedule an appointment for the participant to return for the potential COVID-19 convalescent visit once he or she has recovered.
+
+•	Complete the source documents.
+•	The investigator or an authorized designee completes the CRFs.
+8.13.2.	Potential COVID-19 Convalescent Visit: (28 to 35 Days After Potential COVID-19 Illness Visit)
+•	Record AEs, as appropriate as described in Section 8.3. Note: Potential COVID-19 illnesses that are consistent with the clinical endpoint definition should not be recorded as AEs. These data will be captured as efficacy assessment data only on the relevant pages of the CRF, as these are expected endpoints.
+
+•	Record details of any of the prohibited medications specified in Section 6.5.1 received by the participant if required for his or her clinical care.
+
+•	Collect a blood sample (approximately 20 mL) for immunogenicity testing.
+•	Collect/update COVID-19–related clinical and laboratory information (detailed in Section 8.13.1).
+
+•	Complete the source documents.
+•	The investigator or an authorized designee completes the CRFs.
+•	Record any AEs that occur within the 48 hours after the blood draw as described in Section 8.3.
+
+
+8.14.	Communication and Use of Technology
+In a study of this nature that requires illness events to be reported outside of scheduled study visits, it is vital that communication between the study site and the participant is maintained to ensure that endpoint events are not missed. This study will employ various methods, tailored to the individual participant, to ensure that communication is maintained and study information can be transmitted securely. Using appropriate technology, such as a study application, a communication pathway between the participant and the study site staff will be established. The participant may be able to utilize his or her own devices to access this technology, or use a device provided by the sponsor. Traditional methods of telephone communication will also be available. The technology solution may facilitate the following:
+
+•	Contact with the investigator, including the ability of the participant to report whether or not he or she has experienced symptoms that could represent a potential COVID-19 illness (COVID-19 illness e-diary; see Section 8.13).
+
+•	An alert in the event that the participant is hospitalized.
+•	Visit reminders.
+•	Messages of thanks and encouragement from the study team.
+•	A platform for recording local reactions and systemic events (reactogenicity e-diary) – see Section 8.2.2.
+
+If a participant is not actively completing either the reactogenicity or COVID-19 illness
+e-diary, the investigator or designee is required to contact the participant to ascertain why and also to obtain details of any missed events.
