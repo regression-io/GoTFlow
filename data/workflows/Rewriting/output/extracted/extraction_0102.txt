@@ -1,0 +1,10 @@
+***
+material type: blood sample
+test content: immunogenicity testing
+testing unit: N/A
+single sample quantity: approximately 20 mL
+number of cases: N/A
+total quantity: N/A
+unit/specification: N/A
+disposal plan for residual materials: N/A
+***

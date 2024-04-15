@@ -1,0 +1,10 @@
+***
+material type: Blood and nasal swab samples
+test content: Immune responses to the vaccine(s), development of other products, vaccine-related assay work supporting vaccine programs
+testing unit: Pfizer laboratory
+single sample quantity: N/A
+number of cases: N/A
+total quantity: N/A
+unit/specification: N/A
+disposal plan for residual materials: Stored for up to 15 years after the end of the study and then destroyed
+***

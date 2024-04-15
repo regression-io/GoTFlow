@@ -1,0 +1,21 @@
+I am a researcher at a pharmaceutical company, and I now need to extract the necessary information from medical documents.
+
+The text between two "---" is part of a detailed protocol for a Phase 1/2/3 study sponsored by BioNTech and conducted by Pfizer, regarding the safety, tolerability, immunogenicity, and efficacy of SARS-CoV-2 RNA vaccine candidates against COVID-19 in healthy individuals.
+It includes extensive information on the study's rationale, objectives, design, population, interventions, and the statistical considerations for data analysis.
+
+Now please determine whether this section involves human genetic resources materials. If not involved at all, please output N/A.
+If it does involve, please output the name of the human genetic resources material, and list the attributes that can be extracted from this text section between the two "***" as follows:
+***
+material type
+test content
+testing unit
+single sample quantity
+number of cases
+total quantity
+unit/specification
+disposal plan for residual materials
+***
+
+---
+${content}
+---
